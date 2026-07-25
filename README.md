@@ -66,6 +66,7 @@ This repo is to backtrack my problems i solved in leetcode
 | [0242-valid-anagram](https://github.com/bsvinuu/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/bsvinuu/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/bsvinuu/Leetcode/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/bsvinuu/Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,6 +74,7 @@ This repo is to backtrack my problems i solved in leetcode
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bsvinuu/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/bsvinuu/Leetcode/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/bsvinuu/Leetcode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/bsvinuu/Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3945-digit-frequency-score](https://github.com/bsvinuu/Leetcode/tree/main/3945-digit-frequency-score/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
