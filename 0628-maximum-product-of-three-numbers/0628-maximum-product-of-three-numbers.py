@@ -1,5 +1,7 @@
 class Solution:
     def maximumProduct(self, nums: List[int]) -> int:
+
+        ''' instersting question pointers literally fail because it not a pointer problem simple math '''
         # # product=1
         # nums=list(map(abs,nums))
         # nums.sort()
