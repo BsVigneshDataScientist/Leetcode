@@ -8,6 +8,7 @@ This repo is to backtrack my problems i solved in leetcode
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/bsvinuu/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0575-distribute-candies](https://github.com/bsvinuu/Leetcode/tree/main/0575-distribute-candies/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/bsvinuu/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/bsvinuu/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/bsvinuu/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0804-unique-morse-code-words](https://github.com/bsvinuu/Leetcode/tree/main/0804-unique-morse-code-words/) | Easy |
@@ -65,12 +66,14 @@ This repo is to backtrack my problems i solved in leetcode
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/bsvinuu/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/bsvinuu/Leetcode/tree/main/0389-find-the-difference/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/bsvinuu/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/bsvinuu/Leetcode/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/bsvinuu/Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/bsvinuu/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/bsvinuu/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bsvinuu/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/bsvinuu/Leetcode/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/bsvinuu/Leetcode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
