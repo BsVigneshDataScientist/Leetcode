@@ -1,0 +1,44 @@
+class Solution:
+    def isValid(self, s: str) -> bool:
+        # mapping_dic={
+        #             "(":")",
+        #             "[":"]",
+        #             "{":"}"
+        #         }
+
+        # stack=[]
+
+        # for symbol in s:
+        #     if symbol in  mapping_dic:
+        #         stack.append(symbol)
+        #     else:
+        #         if mapping_dic.get(stack[-1])!=symbol:
+        #             return False
+
+        #         if stack is None:
+        #             return False
+        # return True
+        mapping_dic={
+                ")":"(",
+                "]":"[",
+                "}":"{"
+            }
+
+        stack=[]
+
+        for symbol in s:
+            # print(symbol)
+            if symbol in '([{':
+                stack.append(symbol)
+            else:
+                if not stack:
+                    return False
+                if stack[-1]==mapping_dic.get(symbol):
+                #    stack.remove(mapping_dic.get(symbol))
+                    stack.pop()
+                else:
+                    return False
+        if stack:
+            return False
+        return True
+
