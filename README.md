@@ -49,6 +49,7 @@ This repo is to backtrack my problems i solved in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/bsvinuu/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0020-valid-parentheses](https://github.com/bsvinuu/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0242-valid-anagram](https://github.com/bsvinuu/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/bsvinuu/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0409-longest-palindrome](https://github.com/bsvinuu/Leetcode/tree/main/0409-longest-palindrome/) | Easy |
@@ -136,6 +137,7 @@ This repo is to backtrack my problems i solved in leetcode
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/bsvinuu/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0496-next-greater-element-i](https://github.com/bsvinuu/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/bsvinuu/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Monotonic Stack
