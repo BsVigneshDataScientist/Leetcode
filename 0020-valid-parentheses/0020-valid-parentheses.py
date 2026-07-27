@@ -18,6 +18,9 @@ class Solution:
         #         if stack is None:
         #             return False
         # return True
+
+        ''' understanded the last in first out output'''
+        '''Lesson Learned: In stack problems, never search the whole stack. Always think in terms of peek (stack[-1]) and pop() because a stack follows Last In, First Out (LIFO).'''
         mapping_dic={
                 ")":"(",
                 "]":"[",
