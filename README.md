@@ -13,6 +13,7 @@ This repo is to backtrack my problems i solved in leetcode
 | [0713-subarray-product-less-than-k](https://github.com/bsvinuu/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0804-unique-morse-code-words](https://github.com/bsvinuu/Leetcode/tree/main/0804-unique-morse-code-words/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bsvinuu/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/bsvinuu/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/bsvinuu/Leetcode/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bsvinuu/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/bsvinuu/Leetcode/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
@@ -140,6 +141,7 @@ This repo is to backtrack my problems i solved in leetcode
 | [0020-valid-parentheses](https://github.com/bsvinuu/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0496-next-greater-element-i](https://github.com/bsvinuu/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/bsvinuu/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/bsvinuu/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -148,4 +150,12 @@ This repo is to backtrack my problems i solved in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bsvinuu/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/bsvinuu/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/bsvinuu/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 <!---LeetCode Topics End-->
